@@ -9,10 +9,10 @@ W. Avy is an investor who is famous for his love of surfing and who seems to lik
 The results for the analysis can be seen in [SurfsUp_Challenge.ipynb](https://github.com/Cryptotwister/surfs_up/blob/main/SurfsUp_Challenge.ipynb) jupyter notebook.
 There are the following differences in temperature data for the month of June and December below:
 * June stats:
-![June_temps_stats](https://user-images.githubusercontent.com/42978221/148714174-7b255813-25b3-4d6d-9528-7d54b4cf8d4a.png)
+* ![June_temps_stats](https://user-images.githubusercontent.com/42978221/148714174-7b255813-25b3-4d6d-9528-7d54b4cf8d4a.png)
 
 * December stats:
-![Dec_temps_stats](https://user-images.githubusercontent.com/42978221/148714209-8a92740a-44e7-4b1e-b538-99d5045d0ed7.png)
+* ![Dec_temps_stats](https://user-images.githubusercontent.com/42978221/148714209-8a92740a-44e7-4b1e-b538-99d5045d0ed7.png)
 
 1. For the month of June there are 1700 records while for December only 1517 records.
 
